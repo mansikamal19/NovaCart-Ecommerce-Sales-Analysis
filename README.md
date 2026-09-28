@@ -47,9 +47,14 @@ The analysis uses SQL for business-focused data analysis and Power BI for intera
 ## Dashboard
 The Power BI report contains three analysis pages:
 
-1. Executive Dashboard
-2. Product & Order Performance Analysis
-3. Customer Performance Analysis
+ ### 1. Executive Dashboard
+![Executive Dashboard](Screenshot%202026-09-28%20153453.png)
+
+### 2. Product & Order Performance Analysis
+![Product and Order Performance Analysis](Screenshot%202026-09-28%20153523.png)
+
+### 3. Customer Performance Analysis
+![Customer Performance Analysis](Screenshot%202026-09-28%20153653.png)
 
 ## Note
 The analysis identifies patterns and trends within the available dataset. Observed relationships should not automatically be interpreted as causal relationships.
